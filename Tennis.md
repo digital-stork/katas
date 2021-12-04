@@ -4,7 +4,7 @@
 
 ## About this Kata
 
-This short and simple Kata should be performed using **Test Driven Development** (TDD).
+This short and simple Kata should be performed using **Test Driven Development** (TDD), this can be checked in your commits.
 
 It is about implementing a simple tennis game. It is inspired by Wii tennis, where they have simplified tennis, so each set is one game.
 
